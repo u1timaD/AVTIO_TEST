@@ -1,0 +1,84 @@
+.film-details__info-wrap {
+  color: red;
+  display: flex;
+  justify-content: space-between;
+  width: 1070px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 37px;
+}
+.film-details__poster {
+  display: flex;
+  flex-direction: column;
+}
+.film-details__age {
+  margin: 0;
+  margin-top: 50px;
+}
+.film-details__poster-img {
+  display: flex;
+  width: 338px;
+  height: 500px;
+  object-fit: contain;
+}
+.film-details__info {
+  width: 680px;
+}
+.film-details__info-head {
+  display: flex;
+  margin-bottom: 24px;
+}
+.film-details__title-wrap {
+  width: 540px;
+}
+.film-details__title {
+  font-size: 50px;
+  margin: 0;
+}
+.film-details__title-original {
+  font-size: 21px;
+  margin: 0;
+}
+.film-details__rating {
+  width: 120px;
+  margin-left: auto;
+}
+.film-details__total-rating {
+  margin: 0;
+  font-size: 50px;
+  font-weight: bold;
+  color: #42cd51;
+}
+.film-details__user-rating {
+  margin: 0;
+  font-size: 21px;
+  color: #687fad
+}
+.film-details__row {
+	display: flex;
+  margin: 12px 0;
+  font-size: 21px;
+}
+
+.film-details__term {
+  width: 140px;
+	text-align: left;
+
+}
+.film-details__cell {
+  width: 450px;
+  font-weight: 600;
+}
+.film-details__list {
+  padding-right: 15px;
+}
+.film-details__table {
+  margin-bottom: 37px;
+}
+.film-details__film-description {
+  width: 650px;
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.57;
+  margin: 0;
+}
